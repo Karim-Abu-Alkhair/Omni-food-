@@ -14,5 +14,7 @@ A Healthy Food Delivery Company, that provides food subscriptions for its custom
 - Call to action section (sign-up)
 - Footer
 # Glimpse
+<img src="Omni-food glimpse.PNG" alt="Omni-food picture" />
 
 # Enjoy&#x1F60D;
+<a href="https://omnifood-karim.netlify.app/">Omni-food</a>
